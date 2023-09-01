@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YallaNa3raf</string>
+    <string name="article_title">This is the title</string>
+    <string name="article_description">This is the Source</string>
+    <string name="article_image">This is the article image</string>
+    <string name="logo">logo</string>
+    <string name="Category_1">General</string>
+    <string name="Category_2">Business</string>
+    <string name="Category_3">Sports</string>
+    <string name="Category_4">Science</string>
+    <string name="Category_5">Technology</string>
+    <string name="Category_6">Health</string>
+    <string name="Category_7">Entertainment</string>
+</resources>
